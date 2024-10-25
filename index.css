@@ -52,12 +52,6 @@ body {
     float: none;
   }
 }
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {font-family: "Lato", sans-serif;}
 
 .tablink {
   background-color: #555;
@@ -87,4 +81,3 @@ body {font-family: "Lato", sans-serif;}
 #Paris {background-color:green;}
 #Tokyo {background-color:blue;}
 #Oslo {background-color:orange;}
-</style>
